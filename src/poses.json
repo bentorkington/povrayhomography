@@ -1,0 +1,12 @@
+[
+    { "name": "identity", "position": [0, 0, -1], "lookAt": [0, 0, 0], "rotation": [0, 0, 0]},
+    { "name": "pan10", "position": [0, 0, -1], "lookAt": [-0.17632698, 0, 0], "rotation": [0, 0, 0]},
+    { "name": "x1", "position": [1, 0, -1], "lookAt": [0, 0, 0], "rotation": [0, 0, 0]},
+    { "name": "xminus1", "position": [-1, 0, -1], "lookAt": [0, 0, 0], "rotation": [0, 0, 0]},
+    { "name": "y1", "position": [0, 1, -1], "lookAt": [0, 0, 0], "rotation": [0, 0, 0]},
+    { "name": "14deg", "position": [0, 0, -1], "lookAt": [0, 0, 0], "rotation": [0, -14.036, 0]},
+    { "name": "spin", "position": [0, 0, -1], "lookAt": [0, 0, 0], "rotation": [0, 0, 45]},
+    { "name": "spinfar", "position": [0, 0, -2], "lookAt": [0, 0, 0], "rotation": [0, 0, 45]},
+    { "name": "spinveryfar", "position": [0, 0, -20], "lookAt": [0, 0, 0], "rotation": [0, 0, 45]},
+    { "name": "truck", "position": [0.5, 0, -1], "lookAt": [0.5, 0, 0], "rotation": [0, 0, 0]}
+]
