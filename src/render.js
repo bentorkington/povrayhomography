@@ -45,7 +45,7 @@ global_settings {
 plane { -z, 0 
     pigment {
         image_map {
-            jpeg "Mercator_projection_Square.JPG"
+            jpeg "public/Mercator_projection_Square.JPG"
             once 
         }
         translate <-0.5, -0.5, 0> // <x, y, z>
